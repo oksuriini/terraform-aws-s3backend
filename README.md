@@ -1,2 +1,3 @@
-# Example module
-lol this is just example s3 bucket
+# Example S3 module
+
+Example module of s3 bucket where to throw your stuff
