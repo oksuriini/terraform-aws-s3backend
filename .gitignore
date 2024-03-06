@@ -5,3 +5,5 @@
 terraform
 **/.terraform/*
 crash.log
+
+testmodule
